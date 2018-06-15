@@ -1,1 +1,1 @@
-# invoiceninja_dfy_stretch
+# Deify Infocomm Solutions Custom Integration for Accounts for Debian Stretch
