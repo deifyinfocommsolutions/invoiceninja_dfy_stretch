@@ -96,7 +96,7 @@ fi
 mkdir -p $final_path
 wget http://uwezolearning.com/accounts.zip -P $final_path/
 unzip $final_path/accounts.zip -d $parent_dir > /dev/null
-chmod -R 755 $final_path/accounts/storage
+chmod -R 755 $final_path/storage
 
 
 #chmod 777 -R $parent_dir/application/modules/default/plugins/AccessControl.php
